@@ -1,7 +1,8 @@
 # Code Institute - Code a Math Game Challenge solution
 ![Design](assets/wireframes/math-game-design.png)
 
-This is a solution to the a challenge from the Code Institute Javascript and Interactive Frontend Module to create a math game. 
+This is a solution to the a challenge from the [Code Institute
+](https://codeinstitute.net/) Javascript and Interactive Frontend Module to create a math game. 
 
 ## Overview
 
@@ -17,7 +18,7 @@ This is a solution to the a challenge from the Code Institute Javascript and Int
 ### Links
 
 - [Repo](https://github.com/Franciskadtt/love-maths-game)
-- [Live site](https://franciskadtt.github.io/Tea-Recipe-Steps/)
+- [Live site](https://franciskadtt.github.io/love-maths-game/)
 
 ## My process
 
@@ -56,7 +57,7 @@ This is a solution to the a challenge from the Code Institute Javascript and Int
     3. update our calculate correct answer function
 
 
-## Author
+## Coded By
 
 - Website - [Franciska Du Toit](https://franciskadutoit.com/)
 - Instagram - [@designed.byfranciska
